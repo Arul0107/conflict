@@ -1,0 +1,6 @@
+"Line 2 from branch1" 
+<<<<<<< HEAD
+"its main" 
+=======
+"Line afffddedh" 
+>>>>>>> feature-branch
